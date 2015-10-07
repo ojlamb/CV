@@ -12,7 +12,7 @@ I am a former Geographic Information Systems Specialist who loves to code. I use
 
 #### Leadership and Team-work
 - Successfully pitched an idea for Makers Academy final projects. One of five to be prototyped.
-- Led twice daily stand-up meetings and executed agile development practices, pushing
+- Led twice daily stand-up meetings, executed agile development practices, pushed
   production code daily, and pair-programmed exclusively. View a Live Demo of [TeemApp](http://teemapp.herokuapp.com)
 - Additionally, during my time at DCP Midstream I supported over 80 field personnel with
   GIS and Mapping tasks. I developed my communication, leadership, and team working
