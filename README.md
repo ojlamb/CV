@@ -8,7 +8,7 @@ I am a former Geographic Information Systems Specialist who loves to code. I use
 - Learned the principles of TDD with Ruby and JavaScript at Makers Academy.
 - Using Rspec my final project, [TeemApp](https://github.com/ojlamb/final_project), achieved 97% test coverage.
 - Gained experience with Sinatra and web framework MVC configuration building a [Twitter Clone](https://github.com/ojlamb/chitter-challenge).
-- Learned AngularJS with Protractor and Karma Testing and built a [ToDo List](https://github.com/ojlamb/todo_challenge).
+- Learned AngularJS with Protractor and Karma Testing and built a pharmacy search app [Serket Pharm Search](https://github.com/ojlamb/craftathon) and a [ToDo List](https://github.com/ojlamb/todo_challenge).
 
 #### Leadership and Team-work
 - Successfully pitched an idea for Makers Academy final projects. One of five to be prototyped.
